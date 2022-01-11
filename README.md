@@ -8,7 +8,7 @@
 - 🔭 I am currently learning -> React ⚛️
 - ♥️  I’m interested in code, music, videogames and Design!
 
-## Always ready to learn more!
+## Always ready to learn more! 📚
 
 <!--
 **sergicodes/sergicodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
