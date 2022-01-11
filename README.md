@@ -1,8 +1,14 @@
-### Hi, i'm Sergio 👋🏻
-
-<h1 align="center">Hi there <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/Hi.gif" width="40px">, I'm Sudnyesh Talekar</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sudnyeshtalekar" alt="sudnyeshtalekar" /> </p>
+<h1 align="center">Hi <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/Hi.gif" width="40px">, I'm Sergio</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sergicodes" alt="sudnyeshtalekar" /> </p>
 <br />
+
+👨‍💻 I'm Sergio Torres, Graphic designer and junior Front-end developer.
+
+## 🧐 About me
+- 🔭 I am currently learning -> React ⚛️
+- ♥️  I’m interested in code, music, videogames and Design!
+
+## Always ready to learn more!
 
 <!--
 **sergicodes/sergicodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
