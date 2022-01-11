@@ -1,6 +1,6 @@
 ### Hi, i'm Sergio 👋🏻
 
-<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
+<p align="left"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 
 <!--
 **sergicodes/sergicodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
