@@ -1,6 +1,5 @@
 <h1 align="center">Hi <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/Hi.gif" width="40px">, I'm Sergio</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sergicodes" alt="sudnyeshtalekar" /> </p>
-<br />
 
 👨‍💻 I'm Sergio Torres, Graphic designer and junior Front-end developer.
 
