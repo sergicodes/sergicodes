@@ -10,3 +10,6 @@
 - ♥️  I’m interested in code, music, videogames and Design!
 
 ## Always ready to learn more! 📚
+## Personal Links. 👾
+- https://linktr.ee/sergidev
+- https://sergicodes.github.io/portfolio/
